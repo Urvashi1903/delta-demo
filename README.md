@@ -1,2 +1,3 @@
 # delta-demo
-This is practice set of git &amp; github classes
+This is practice set of git &amp; github classes.
+
